@@ -36,10 +36,5 @@ Developer → GitHub → Jenkins → Maven → Docker → Tomcat Container → U
 
 ---
 
-### 🧠 One-Line Summary
-
-> A Docker-based CI/CD pipeline where Jenkins builds the Blinkit WAR using Maven and deploys it on Tomcat running inside a Docker container.
-
----
 
 
